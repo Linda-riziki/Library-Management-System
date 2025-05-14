@@ -1,4 +1,4 @@
-# Library-Management-System
+![image](https://github.com/user-attachments/assets/2009f1da-2003-4607-b513-ecca1edeecde)![image](https://github.com/user-attachments/assets/c0ea271d-61e6-41a7-b1ab-ca9e5480113c)# Library-Management-System
 Library Management System
 Description:
 This project is a database management system (DBMS) designed to manage the operations of a library. It includes tables for authors, books, members, and borrow records. The system tracks which books are borrowed, by which members, and when they are due for return.
@@ -12,7 +12,7 @@ Create a new database, for example, CREATE DATABASE LibraryDB;.
 
 Import the library_management_system.sql file into the database 
 
-This will create the tables and insert sample data into the system.
+This will create the tables and insert sample data into the system
 
-Link to ERD:
-[Insert link to your ERD here or provide an image screenshot.]
+
+
